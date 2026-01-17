@@ -11,7 +11,13 @@ I’m an IT professional and student-athlete with hands-on experience managing W
 Motivated system administrator seeking opportunities to support and maintain Windows Server, Active Directory, virtualization platforms, and enterprise networks. I bring strong problem-solving skills, leadership experience, and a commitment to delivering reliable IT solutions.
 
 ---
+🛡️ Certifications
 
+[![CompTIA Security+](https://images.credly.com/size/340x340/images/74790cfa-3b9d-4d47-9d2a-6fd14b2f0b1a/comptia-security-ce-certification.png)](https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78)
+
+**CompTIA Security+ (SY0-701)**  
+Issued: January 2026  
+Expires: January 2029
 ## 🛠️ Technical Skills
 
 ### **Systems & Servers**

@@ -7,12 +7,19 @@
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
 
-I’m an IT professional and former student-athlete with hands-on experience managing Windows and Linux systems, Active Directory, virtualization, and network troubleshooting. I focus on system administration, enterprise support, and secure IT operations.
-
+Aspiring **System Administrator / IAM Support Engineer** with hands-on experience building and securing Windows Active Directory environments.  
+Strong foundation in **user lifecycle management, Group Policy, Windows Server, and security fundamentals** through home labs and coursework.
 ---
 
 ## 🎯 Objective  
-Motivated system administrator seeking opportunities to support and maintain Windows Server, Active Directory, virtualization platforms, and enterprise networks. I bring strong problem-solving skills, leadership experience, and a commitment to delivering reliable IT solutions.
+### 🎯 Career Objective
+### 🎯 Career Objective
+Driven **System Administrator / IAM Support Engineer** prepared to own Active Directory
+user lifecycle operations, Group Policy enforcement, and access control workflows.
+Hands-on experience designing and deploying secure Windows Server domains that mirror
+real enterprise environments. Seeking a role where I can deliver operational value
+from day one and rapidly advance into higher-responsibility system administration roles.
+
 
 ---
 
@@ -27,30 +34,30 @@ Motivated system administrator seeking opportunities to support and maintain Win
 
 ## 🛠️ Technical Skills
 
-### **Systems & Servers**
-- Windows Server 2019/2022  
-- Linux (Ubuntu, Kali)  
-- Active Directory Domain Services  
-- Group Policy (GPO)  
-- DNS, DHCP, File & Storage Services  
+### 🛠 Technical Skills
 
-### **Networking**
-- VLANs & Subnets  
-- Firewall Rules  
-- Troubleshooting (ping, tracert, ipconfig)  
-- Wireshark Packet Analysis  
-- pfSense Firewall  
+**Operating Systems**
+- Windows Server 2019/2022
+- Windows 10/11
+- Linux (Ubuntu)
 
-### **Virtualization & Cloud**
-- VirtualBox  
-- VMware Workstation  
-- Azure AD (basic)  
+**Identity & Access Management**
+- Active Directory (AD DS)
+- Group Policy (GPO)
+- User & Group Lifecycle Management
+- NTFS Permissions
 
-### **Automation & Tools**
-- PowerShell  
-- Bash  
-- Sysmon / Event Viewer  
-- SMB/NFS File Sharing  
+**Networking & Security**
+- DNS, DHCP
+- TCP/IP fundamentals
+- Firewall basics
+- Security+ concepts
+
+**Tools**
+- VirtualBox / VMware
+- PowerShell (beginner)
+- Event Viewer
+
 
 ---
 

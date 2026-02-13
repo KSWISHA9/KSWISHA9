@@ -1,7 +1,5 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/originals/84/06/8b/84068b002dbb0df23883228c166a463f.jpg" width="100%" alt="Banner" />
-
   <br><br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B;I'm+Keshawn+Lynch;Identity+%26+Systems+Engineer" alt="Typing Greeting" />
@@ -13,7 +11,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <img src="https://komarev.com/ghpvc/?username=KSWISHA9&label=Visitors&color=blue&style=for-the-badge" alt="Visitors" />
-    <img src="https://img.shields.io/badge/CompTIA-Security%2B-SY0--701-red?style=for-the-badge&logo=Comptia&logoColor=white" alt="CompTIA Security+" />
+    <img src="https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-d9261c?style=for-the-badge&logoColor=white" alt="CompTIA Security+" />
   </p>
 
   <picture>
@@ -94,7 +92,7 @@ I build and simulate enterprise-style environments that combine IAM operations w
 ### 🔍 Security
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Defender" />
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-red?style=for-the-badge&logo=Comptia&logoColor=white" alt="Security+" />
+  <img src="https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-d9261c?style=for-the-badge&logoColor=white" alt="Security+" />
 </p>
 
 ---
@@ -103,12 +101,8 @@ I build and simulate enterprise-style environments that combine IAM operations w
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78">
-    <img src="https://images.credly.com/size/220x220/images/74790cfa-3b9d-4d47-9d2a-6fd14b2f0b1a/comptia-security-ce-certification.png" width="160" alt="Security+ Badge" />
+    <img src="https://img.shields.io/badge/View_on_Credly-CompTIA_Security%2B-d9261c?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Security+" />
   </a>
-</p>
-
-<p align="center">
-  <strong>CompTIA Security+ (SY0-701)</strong>
 </p>
 
 ---
@@ -116,11 +110,25 @@ I build and simulate enterprise-style environments that combine IAM operations w
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KSWISHA9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/KSWISHA9">
+    <img src="https://github-readme-stats.vercel.app/api?username=KSWISHA9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSWISHA9&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/KSWISHA9">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSWISHA9&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/KSWISHA9">
+    <img src="https://github-profile-trophy.vercel.app/?username=KSWISHA9&theme=onedark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---

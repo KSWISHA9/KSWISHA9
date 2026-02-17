@@ -127,18 +127,3 @@ I build and simulate enterprise-style environments that combine IAM operations w
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/KSWISHA9">
-    <img src="https://github-profile-trophy.vercel.app/?username=KSWISHA9&theme=onedark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KSWISHA9&theme=onedark&no-frame=true&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>

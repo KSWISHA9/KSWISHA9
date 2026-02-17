@@ -28,11 +28,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-Identity & Systems Engineer focused on secure infrastructure design, **Active Directory architecture**, and **enterprise identity lifecycle automation**.
+IAM-focused engineer with hands-on experience in Active Directory, Entra ID, and identity lifecycle automation.
 
-I build and simulate enterprise-style environments that combine IAM operations with system administration to reduce access risk and automate repeatable workflows.
+I build practical lab environments that mirror real enterprise scenarios — designing OU structures, enforcing RBAC, automating provisioning workflows, and implementing secure offboarding processes.
+
+My focus is on reducing access risk, improving auditability, and eliminating repetitive administrative work through automation.
 
 - Active Directory domain architecture  
 - Identity lifecycle automation (Provisioning / Deprovisioning)  
@@ -43,28 +45,37 @@ I build and simulate enterprise-style environments that combine IAM operations w
 
 ---
 
-## 🔐 Identity & Access Management
+## Identity & Access Management
 
-- ✅ Automated bulk user provisioning (PowerShell)
-- ✅ Group-based RBAC implementation
-- ✅ Secure offboarding workflows
-- ✅ MFA group enforcement modeling
-- ✅ Organizational Unit (OU) structure design
-- ✅ NTFS permission strategy
-- ✅ Delegated administrative control
+
+- Active Directory domain architecture and OU design  
+- Joiner / Mover / Leaver lifecycle automation  
+- RBAC strategy and delegated administration  
+- Secure offboarding workflows (disable, group removal, OU moves, logging)  
+- NTFS permission design  
+- MFA group enforcement modeling  
+- Hybrid identity concepts (AD + Entra ID)  
+- Okta fundamentals and SSO concepts  
 
 ---
 
-## 🖥️ Systems Administration
+##  Systems Administration
 
-- 🔧 Windows Server 2019 / 2022 deployment
-- 🌐 Domain Controller configuration
-- 📡 DNS & DHCP management
-- 📋 Group Policy baseline enforcement
-- 🧩 Patch/update fundamentals
-- 📈 Event log analysis (Event Viewer)
-- 🧪 Multi-VM lab architecture design (VMware / VirtualBox)
+- Windows Server 2019 / 2022 deployment  
+- Domain Controller configuration  
+- DNS and DHCP management  
+- Group Policy configuration and baseline enforcement  
+- Event log review and operational troubleshooting  
+- Multi-VM lab architecture (VMware / VirtualBox)  
+- Linux fundamentals (Ubuntu)  
 
+## Automation & Engineering
+
+- PowerShell scripting (bulk provisioning, automation workflows)  
+- Bash scripting   
+- Docker container fundamentals  
+- Secure container practices (non-root users, minimal images)  
+- Infrastructure lab simulation  
 ---
 
 ## 🧰 Core Tools & Platforms

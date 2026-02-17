@@ -2,7 +2,11 @@
 
   <br><br>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B;I'm+Keshawn+Lynch;Identity+%26+Systems+Engineer" alt="Typing Greeting" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=75&speed=150&color=FF0000&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B;I'm+Keshawn+Lynch;Identity+%26+Systems+Engineer" alt="Typing Greeting" />
+
+
+
+
 
   <h3>Karnage | Secure Infrastructure & Automation</h3>
 

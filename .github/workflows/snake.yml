@@ -20,20 +20,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate contribution snake (black snake, red dots, white background)
+      - name: Generate contribution snake (black snake, red dots, light/white grid)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?background=%23ffffff&color_snake=%23000000&color_dots=%23ffffff,%23ffd6d6,%23ff9a9a,%23ff4d4d,%23cc0000
-            dist/github-contribution-grid-snake-dark.svg?background=%23ffffff&color_snake=%23000000&color_dots=%23ffffff,%23ffd6d6,%23ff9a9a,%23ff4d4d,%23cc0000
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23000000&color_dots=%23ebedf0,%23ffd6d6,%23ff9a9a,%23ff4d4d,%23cc0000
+            dist/github-contribution-grid-snake-dark.svg?palette=github-light&color_snake=%23000000&color_dots=%23ebedf0,%23ffd6d6,%23ff9a9a,%23ff4d4d,%23cc0000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push snake svgs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          target_bran_

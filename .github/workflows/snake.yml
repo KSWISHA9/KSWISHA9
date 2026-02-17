@@ -3,6 +3,5 @@
   with:
     github_user_name: ${{ github.repository_owner }}
     outputs: |
-      dist/github-contribution-grid-snake.svg?color_snake=%23000000&color_dots=%23FFCCCC,%23FF6666,%23FF3333,%23CC0000,%238B0000
-      dist/github-contribution-grid-snake-dark.svg?color_snake=%23000000&color_dots=%23FFCCCC,%23FF6666,%23FF3333,%23CC0000,%238B0000
-
+      dist/github-contribution-grid-snake.svg?color_snake=%23000000&color_dots=%23FF0000,%23E60000,%23CC0000,%23990000,%23660000
+      dist/github-contribution-grid-snake-dark.svg?color_snake=%23000000&color_dots=%23FF0000,%23E60000,%23CC0000,%23990000,%23660000

@@ -20,13 +20,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate contribution snake (black snake, red dots)
+      - name: Generate contribution snake (black snake, red dots, white background)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23000000&color_dots=%23FF0000,%23E60000,%23CC0000,%23990000,%23660000
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%23000000&color_dots=%23FF0000,%23E60000,%23CC0000,%23990000,%23660000
+            dist/github-contribution-grid-snake.svg?background=%23ffffff&color_snake=%23000000&color_dots=%23ffffff,%23ffd6d6,%23ff9a9a,%23ff4d4d,%23cc0000
+            dist/github-contribution-grid-snake-dark.svg?background=%23ffffff&color_snake=%23000000&color_dots=%23ffffff,%23ffd6d6,%23ff9a9a,%23ff4d4d,%23cc0000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

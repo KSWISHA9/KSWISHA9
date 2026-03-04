@@ -37,14 +37,12 @@
 Hands-on identity engineering projects demonstrating real-world IAM and systems administration scenarios.
 
 | Project | Description |
-|---|---|
-| [🔐 Active Directory Offboarding Engine](https://github.com/KSWISHA9/Iam-labs-/tree/main/labs/Active-Directory/ad-offboarding-engine) | Automated deprovisioning (disable, remove groups, move to Terminated OU, logging) |
-| 🔄 Hybrid Identity Sync Troubleshooting  | Troubleshoot Entra Connect sync failures and attribute conflicts |
-| 🔑 Conditional Access Security Baseline| Zero Trust policy design with MFA enforcement and validation |
-| 🌐 SSO Federation Lab  | SAML/OIDC federation configuration + troubleshooting runbook |
-| 📊 Privileged Access Risk Dashboard  | Identity exposure analysis using Microsoft Graph |
-| ⚙️ Terraform IAM Infrastructure | IAM infrastructure-as-code patterns using Terraform |
-
+|--------|-------------|
+| 🔐 [Active Directory Offboarding Engine](./01-ad-offboarding-engine) | Automated deprovisioning (disable, remove groups, move to Terminated OU, logging) |
+| 🔄 [Hybrid Identity Sync Troubleshooting](./02-hybrid-identity-sync) | Troubleshoot Entra Connect sync failures and attribute conflicts |
+| 🔑 [Conditional Access Security Baseline](./03-conditional-access-baseline) | Zero Trust policy design with MFA enforcement and validation |
+| 🌐 [SSO Federation Lab](./04-sso-federation) | SAML/OIDC federation configuration + troubleshooting runbook |
+| 📊 [Privileged Access Risk Dashboard](./05-privileged-access-risk-dashboard) | Identity exposure analysis using Microsoft Graph |
 <!--PORTFOLIO-END-->
 
 IAM-focused engineer with hands-on experience in Active Directory, Entra ID, and identity lifecycle automation.

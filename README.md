@@ -96,18 +96,7 @@ My focus is on reducing access risk, improving auditability, and eliminating rep
 ---
 ---
 
-## 🧪 Engineering Portfolio
 
-Hands-on identity engineering projects demonstrating real-world IAM and systems administration scenarios.
-
-| Project | Description |
-|-------|-------------|
-| 🔐 [Active Directory Offboarding Engine](./labs/Active-Directory/ad-offboarding-engine) | Automated identity deprovisioning workflow (disable account, remove access groups, move to termination OU) |
-| 🔄 Hybrid Identity Sync Troubleshooting | Investigating and resolving Entra Connect sync failures |
-| 🔑 Conditional Access Security Baseline | Implementing Zero Trust MFA enforcement |
-| 🌐 SSO Federation Lab | SAML / OIDC identity federation testing |
-| 📊 Privileged Access Risk Dashboard | Microsoft Graph identity exposure analysis |
-| ⚙️ Terraform IAM Infrastructure | Infrastructure-as-code identity automation |
 
 ---
 ## 🧰 Core Tools & Platforms

@@ -39,11 +39,11 @@ Hands-on identity engineering projects demonstrating real-world IAM and systems 
 | Project | Description |
 |---|---|
 | [🔐 Active Directory Offboarding Engine](https://github.com/KSWISHA9/Iam-labs-/tree/main/labs/Active-Directory/ad-offboarding-engine) | Automated deprovisioning (disable, remove groups, move to Terminated OU, logging) |
-| 🔄 Hybrid Identity Sync Troubleshooting *(Coming soon)* | Troubleshoot Entra Connect sync failures and attribute conflicts |
-| 🔑 Conditional Access Security Baseline *(Coming soon)* | Zero Trust policy design with MFA enforcement and validation |
-| 🌐 SSO Federation Lab *(Coming soon)* | SAML/OIDC federation configuration + troubleshooting runbook |
-| 📊 Privileged Access Risk Dashboard *(Coming soon)* | Identity exposure analysis using Microsoft Graph |
-| ⚙️ Terraform IAM Infrastructure *(Coming soon)* | IAM infrastructure-as-code patterns using Terraform |
+| 🔄 Hybrid Identity Sync Troubleshooting  | Troubleshoot Entra Connect sync failures and attribute conflicts |
+| 🔑 Conditional Access Security Baseline| Zero Trust policy design with MFA enforcement and validation |
+| 🌐 SSO Federation Lab  | SAML/OIDC federation configuration + troubleshooting runbook |
+| 📊 Privileged Access Risk Dashboard  | Identity exposure analysis using Microsoft Graph |
+| ⚙️ Terraform IAM Infrastructure | IAM infrastructure-as-code patterns using Terraform |
 
 <!--PORTFOLIO-END-->
 
@@ -93,12 +93,7 @@ My focus is on reducing access risk, improving auditability, and eliminating rep
 - Docker container fundamentals  
 - Secure container practices (non-root users, minimal images)  
 - Infrastructure lab simulation  
----
----
 
-
-
----
 ## 🧰 Core Tools & Platforms
 
 ### 🔐 Identity & Directory

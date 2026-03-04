@@ -44,20 +44,7 @@
 
 <!--PROJECTS-END-->
 
-<!--PORTFOLIO-START-->
 
-## 🧪 Engineering Portfolio
-
-Hands-on identity engineering projects demonstrating real-world IAM and systems administration scenarios.
-
-| Project | Description |
-|--------|-------------|
-| 🔐 [Active Directory Offboarding Engine](./01-ad-offboarding-engine) | Automated deprovisioning (disable, remove groups, move to Terminated OU, logging) |
-| 🔄 [Hybrid Identity Sync Troubleshooting](./02-hybrid-identity-sync) | Troubleshoot Entra Connect sync failures and attribute conflicts |
-| 🔑 [Conditional Access Security Baseline](./03-conditional-access-baseline) | Zero Trust policy design with MFA enforcement and validation |
-| 🌐 [SSO Federation Lab](./04-sso-federation) | SAML/OIDC federation configuration + troubleshooting runbook |
-| 📊 [Privileged Access Risk Dashboard](./05-privileged-access-risk-dashboard) | Identity exposure analysis using Microsoft Graph |
-<!--PORTFOLIO-END-->
 
 IAM-focused engineer with hands-on experience in Active Directory, Entra ID, and identity lifecycle automation.
 

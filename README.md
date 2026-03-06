@@ -7,22 +7,26 @@
 
 
 
+<div align="center">
 
-<h3>Karnage | Secure Infrastructure & Automation</h3>
+  <h3>Karnage | Secure Infrastructure & Automation</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/keshawn-lynch-66a7502a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <p align="center">
+    <a href="https://linkedin.com/in/keshawn-lynch-66a7502a8">
+      <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=KSWISHA9&label=Visitors&color=blue&style=for-the-badge" alt="Visitors" />
+    <img src="https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-d9261c?style=for-the-badge&logoColor=white" alt="CompTIA Security+" />
+    <img src="https://img.shields.io/badge/Microsoft_SC--300-Identity_Access_Admin-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-300" />
+  </p>
 
-  <img src="https://komarev.com/ghpvc/?username=KSWISHA9&label=Visitors&color=blue&style=for-the-badge" alt="Visitors" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake.svg">
+  </picture>
 
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-d9261c?style=for-the-badge&logoColor=white" alt="CompTIA Security+" />
-
-  <img src="https://img.shields.io/badge/Microsoft_SC--300-Identity_Access_Admin-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-300" />
-</p>
-
----
+</div>
 
 ##  About Me
 

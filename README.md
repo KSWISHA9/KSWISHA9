@@ -30,7 +30,7 @@
 
 # About Me
 
-I build enterprise infrastructure projects that simulate how modern organizations deploy, secure, automate, and manage technology at scale.
+I build enterprise infrastructure projects that simulate how modern organizations deploy, secure, automate, and manage technology at scale.**I build enterprise infrastructure projects that demonstrate how modern organizations deploy, secure, automate, and operate technology at scale.
 
 Rather than creating isolated lab exercises, I created **OmniVerse Enterprises**—a fictional enterprise portfolio where every repository solves a realistic business scenario and builds on the previous one, mirroring how enterprise infrastructure is designed, deployed, secured, and maintained.
 
@@ -68,7 +68,7 @@ Every repository includes business scenarios, architecture diagrams, implementat
 | Domain | Technologies |
 |--------|-------------|
 | **Identity & Directory** | Active Directory · Entra ID · Okta · SAML 2.0 · OIDC · SCIM · Entra Connect |
-| **Systems & Infrastructure** | Windows Server 2025 · DNS · DHCP · Group Policy · VMware · VirtualBox · Ubuntu |
+| **Systems & Infrastructure** | Windows Server  · DNS · DHCP · Group Policy · VMware · VirtualBox · Ubuntu |
 | **Security** | Microsoft Defender · Sentinel · Tenable Nessus · Splunk · Wireshark · NIST 800-53 |
 | **Automation** | PowerShell · Microsoft Graph API · Bash · Python |
 | **Cloud** | Microsoft Azure · Microsoft 365 |
@@ -79,9 +79,9 @@ Every repository includes business scenarios, architecture diagrams, implementat
 |---------------|--------|--------|
 | [Security+ (SY0-701)](https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78) | CompTIA | ✅ Earned |
 | Identity & Access Administrator (SC-300) | Microsoft | ✅ Earned |
-| SecurityX | CompTIA | 🔄 In Progress |
-| Azure Administrator (AZ-104) | Microsoft | 📅 Planned |
-| Okta Certified Professional | Okta | 📅 Planned |
+| SecurityX | CompTIA | Next |
+| Azure Administrator (AZ-104) | Microsoft |
+| Okta Certified Professional | Okta |  
 
 
 

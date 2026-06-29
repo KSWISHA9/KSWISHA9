@@ -9,145 +9,88 @@
 
 <div align="center">
 
-  <h3>Karnage | Secure Infrastructure & Automation</h3>
+<div align="center">
 
-  <p align="center">
-    <a href="https://linkedin.com/in/keshawn-lynch-66a7502a8">
-      <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=KSWISHA9&label=Visitors&color=blue&style=for-the-badge" alt="Visitors" />
-    <img src="https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-d9261c?style=for-the-badge&logoColor=white" alt="CompTIA Security+" />
-    <img src="https://img.shields.io/badge/Microsoft_SC--300-Identity_Access_Admin-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-300" />
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=75&speed=150&color=0078D4&center=true&vCenter=true&width=600&lines=Keshawn+Lynch;Infrastructure+%E2%80%A2+Identity+%E2%80%A2+Security;Building+OmniVerse+Enterprises" alt="Keshawn Lynch — Infrastructure · Identity · Security" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake.svg">
-  </picture>
+<br>
+
+**Building OmniVerse Enterprises — a fictional enterprise portfolio that demonstrates real-world Identity, Infrastructure, Security, Cloud, and Automation engineering.**
+
+<br>
+
+[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge\&logo=comptia\&logoColor=white)](https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78)
+[![SC-300](https://img.shields.io/badge/Microsoft_SC--300-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://www.credly.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/keshawn-lynch-66a7502a8)
+[![Profile Views](https://komarev.com/ghpvc/?username=KSWISHA9\&style=for-the-badge\&color=555555)](https://github.com/KSWISHA9)
 
 </div>
 
-##  About Me
+---
 
-<!--PROJECTS-START-->
+# About Me
 
-## 🧪 Engineering Projects (Click to Open)
+I build enterprise infrastructure projects that simulate how modern organizations deploy, secure, automate, and manage technology at scale.
 
-| # | Project | Description |
-|---:|---|---|
-| 01 | [AD Offboarding Engine](https://github.com/KSWISHA9/Iam-labs-/tree/main/01-ad-offboarding-engine) | Automated deprovisioning workflow: disable account, remove access groups, move to Terminated OU, logging |
-| 02 | [Hybrid Identity Sync Engineering](https://github.com/KSWISHA9/Iam-labs-/tree/main/02-hybrid-identity-sync) | AD ↔ Entra ID synchronization validation + troubleshooting using Entra Connect |
-| 03 | [Conditional Access Security Baseline](https://github.com/KSWISHA9/Iam-labs-/tree/main/03-conditional-access-baseline) | Zero Trust access controls: MFA enforcement, legacy auth blocking, admin protection policies |
-| 04 | [SSO Federation Lab](https://github.com/KSWISHA9/Iam-labs-/tree/main/04-sso-federation) | SAML/OIDC federation configuration with troubleshooting runbook |
-| 05 | [Privileged Access Risk Dashboard](https://github.com/KSWISHA9/Iam-labs-/tree/main/05-privileged-access-risk-dashboard) | Microsoft Graph automation to identify risky apps (ownerless, expired creds, stale sign-ins) |
+Rather than creating isolated lab exercises, I created **OmniVerse Enterprises**—a fictional enterprise portfolio where every repository solves a realistic business scenario and builds on the previous one, mirroring how enterprise infrastructure is designed, deployed, secured, and maintained.
 
-<!--PROJECTS-END-->
+My portfolio spans **Identity & Access Management, Systems Administration, Cybersecurity, Cloud, and Automation**, with projects centered around **Active Directory, Microsoft Entra ID, Windows Server, Microsoft Azure, PowerShell, and Zero Trust**.
 
-
-
-IAM-focused engineer with hands-on experience in Active Directory, Entra ID, and identity lifecycle automation.
-
-I build practical lab environments that mirror real enterprise scenarios — designing OU structures, enforcing RBAC, automating provisioning workflows, and implementing secure offboarding processes.
-
-My focus is on reducing access risk, improving auditability, and eliminating repetitive administrative work through automation.
-
-- Active Directory domain architecture  
-- Identity lifecycle automation (Provisioning / Deprovisioning)  
-- RBAC design & enforcement  
-- Windows Server hardening  
-- Hybrid identity concepts (AD + Entra ID)  
-- Operational security controls  
+Every repository includes business scenarios, architecture diagrams, implementation guides, validation, troubleshooting, and lessons learned to demonstrate not only the technical solution, but the engineering process behind it.
 
 ---
 
-## Identity & Access Management
-
-
-- Active Directory domain architecture and OU design  
-- Joiner / Mover / Leaver lifecycle automation  
-- RBAC strategy and delegated administration  
-- Secure offboarding workflows (disable, group removal, OU moves, logging)  
-- NTFS permission design  
-- MFA group enforcement modeling  
-- Hybrid identity concepts (AD + Entra ID)  
-- Okta fundamentals and SSO concepts  
+> ** My Current Mission:** Building OmniVerse Enterprises into a production-inspired enterprise portfolio demonstrating modern Identity, Infrastructure, Security, Automation, and Governance engineering.
 
 ---
 
-##  Systems Administration
+#  OmniVerse Enterprise Environment
 
-- Windows Server 2019 / 2022 deployment  
-- Domain Controller configuration  
-- DNS and DHCP management  
-- Group Policy configuration and baseline enforcement  
-- Event log review and operational troubleshooting  
-- Multi-VM lab architecture (VMware / VirtualBox)  
-- Linux fundamentals (Ubuntu)  
+|                       |                                                            |
+| --------------------- | ---------------------------------------------------------- |
+| **Environment Type**  | Fictional Enterprise Portfolio                             |
+| **Industry**          | Enterprise Technology                                      |
+| **Organization Size** | 2,500+ Users                                               |
+| **Locations**         | Multi-site Enterprise Environment                          |
+| **Identity**          | Active Directory · Microsoft Entra ID · Okta               |
+| **Cloud**             | Microsoft Azure · Microsoft 365                            |
+| **Security**          | Microsoft Defender · Microsoft Sentinel · Tenable · Qualys |
+| **Compliance**        | NIST 800-53 · RMF                                          |
+| **Automation**        | PowerShell · Microsoft Graph API · Python                  |
 
-## Automation & Engineering
+> **OmniVerse Enterprises is a fictional enterprise portfolio created to simulate realistic IT infrastructure, identity engineering, security operations, automation, and governance scenarios. Every repository represents a business-driven engineering project designed to mirror enterprise workflows while remaining clearly identified as a simulated environment.**
 
-- PowerShell scripting (bulk provisioning, automation workflows)  
-- Bash scripting   
-- Docker container fundamentals  
-- Secure container practices (non-root users, minimal images)  
-- Infrastructure lab simulation  
+→ **View the complete company architecture, documentation, and engineering roadmap in the OmniVerse Enterprise repository.**
 
-## 🧰 Core Tools & Platforms
 
-### 🔐 Identity & Directory
-<p align="center">
-  <img src="https://img.shields.io/badge/Active_Directory-003399?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Active Directory" />
-  <img src="https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Entra ID" />
-  <img src="https://img.shields.io/badge/Azure_AD-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Azure AD" />
-  <img src="https://img.shields.io/badge/Group_Policy-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Group Policy" />
-</p>
+## Engineering Stack
 
-### 🖥️ Systems & Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=Windows&logoColor=white" alt="Windows Server" />
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/DNS-00599C?style=for-the-badge" alt="DNS" />
-  <img src="https://img.shields.io/badge/DHCP-00599C?style=for-the-badge" alt="DHCP" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox" />
-</p>
+| Domain | Technologies |
+|--------|-------------|
+| **Identity & Directory** | Active Directory · Entra ID · Okta · SAML 2.0 · OIDC · SCIM · Entra Connect |
+| **Systems & Infrastructure** | Windows Server 2025 · DNS · DHCP · Group Policy · VMware · VirtualBox · Ubuntu |
+| **Security** | Microsoft Defender · Sentinel · Tenable Nessus · Splunk · Wireshark · NIST 800-53 |
+| **Automation** | PowerShell · Microsoft Graph API · Bash · Python |
+| **Cloud** | Microsoft Azure · Microsoft 365 |
+| **Governance** | NIST 800-53 · RMF · eMASS · Access Reviews · Audit Logging |
+## 🏆 Certifications
 
-### ⚙️ Automation & Scripting
-<p align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="Bash" />
-</p>
+| Certification | Issuer | Status |
+|---------------|--------|--------|
+| [Security+ (SY0-701)](https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78) | CompTIA | ✅ Earned |
+| Identity & Access Administrator (SC-300) | Microsoft | ✅ Earned |
+| SecurityX | CompTIA | 🔄 In Progress |
+| Azure Administrator (AZ-104) | Microsoft | 📅 Planned |
+| Okta Certified Professional | Okta | 📅 Planned |
 
-### 🔍 Security
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Defender-5E5E5E?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Microsoft Defender" />
-  <img src="https://img.shields.io/badge/CompTIA_Security%2B-SY0--701-d9261c?style=for-the-badge&logoColor=white" alt="Security+" />
-</p>
 
----
+
 
 ## 🛡️ Certifications
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78">
     <img src="https://img.shields.io/badge/View_on_Credly-CompTIA_Security%2B-d9261c?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Security+" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/KSWISHA9">
-    <img src="https://github-readme-stats.vercel.app/api?username=KSWISHA9&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KSWISHA9">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSWISHA9&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 

@@ -81,6 +81,16 @@ Current work focuses on:
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+
+![GitHub contribution snake](https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 <div align="center">
 
 **Open to IAM, Systems Administration, Cloud Identity, and Security Engineering opportunities.**

@@ -100,6 +100,9 @@ Every repository includes business scenarios, architecture diagrams, implementat
   <a href="https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78">
     <img src="https://img.shields.io/badge/View_on_Credly-CompTIA_Security%2B-d9261c?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Security+" />
   </a>
+  <a href="https://www.credly.com">
+    <img src="https://img.shields.io/badge/Microsoft_SC--300-Identity_%26_Access_Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-300" />
+  </a>
 </p>
 
 ---

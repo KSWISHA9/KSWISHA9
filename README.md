@@ -28,6 +28,14 @@
 
 ---
 
+<div align="center">
+
+![GitHub contribution snake](https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 # About Me
 
 I build enterprise infrastructure projects that simulate how modern organizations deploy, secure, automate, and manage technology at scale.**I build enterprise infrastructure projects that demonstrate how modern organizations deploy, secure, automate, and operate technology at scale.

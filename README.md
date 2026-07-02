@@ -1,21 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Keshawn+Lynch;Identity+%26+Systems+Engineer;Active+Directory+%7C+Entra+ID+%7C+PowerShell+%7C+SSO" alt="Hi, I'm Keshawn Lynch - Identity and Systems Engineer" />
-
-<img src="https://img.shields.io/badge/Identity%20%26%20Systems%20Engineer-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Identity and Systems Engineer" />
-<img src="https://img.shields.io/badge/Active%20Directory-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Active Directory" />
-<img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="Microsoft Entra ID" />
-<img src="https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&labelColor=000000&color=FF0000" alt="PowerShell" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Keshawn+Lynch;Identity+%26+Systems+Engineer;Active+Directory+%7C+Entra+ID+%7C+PowerShell+%7C+SSO" alt="Keshawn Lynch - Identity and Systems Engineer" />
 
 **Building production-inspired IAM, infrastructure, security, and automation labs through OmniVerse Enterprises.**
 
 [![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78)
-[![SC-300](https://img.shields.io/badge/Microsoft_SC--300-000000?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000000&color=FF0000)](https://www.credly.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=FF0000)](https://linkedin.com/in/keshawn-lynch-66a7502a8)
-
-<br>
-
-![GitHub contribution snake](https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake.svg)
+[![SC-300](https://img.shields.io/badge/Microsoft_SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.credly.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshawn-lynch-66a7502a8)
 
 </div>
 

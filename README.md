@@ -1,111 +1,96 @@
 <div align="center">
 
-  <br><br>
+# Keshawn Lynch
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=75&speed=150&color=FF0000&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B;I'm+Keshawn+Lynch;Identity+%26+Systems+Engineer" alt="Typing Greeting" />
+### Identity and Security Engineer
 
+**Active Directory | Microsoft Entra ID | PowerShell | Zero Trust | Automation**
 
-
-
-<div align="center">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=75&speed=150&color=0078D4&center=true&vCenter=true&width=600&lines=Keshawn+Lynch;Infrastructure+%E2%80%A2+Identity+%E2%80%A2+Security;Building+OmniVerse+Enterprises" alt="Keshawn Lynch — Infrastructure · Identity · Security" />
-
-<br>
-
-**Building OmniVerse Enterprises — a fictional enterprise portfolio that demonstrates real-world Identity, Infrastructure, Security, Cloud, and Automation engineering.**
-
-<br>
-
-[![Security+](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=for-the-badge\&logo=comptia\&logoColor=white)](https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78)
-[![SC-300](https://img.shields.io/badge/Microsoft_SC--300-0078D4?style=for-the-badge\&logo=microsoft\&logoColor=white)](https://www.credly.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/keshawn-lynch-66a7502a8)
-[![Profile Views](https://komarev.com/ghpvc/?username=KSWISHA9\&style=for-the-badge\&color=555555)](https://github.com/KSWISHA9)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78)
+[![SC-300](https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshawn-lynch-66a7502a8)
 
 </div>
 
 ---
+
+## About
+
+I build enterprise-style identity and security projects that simulate real-world infrastructure, governance workflows, and security operations using Microsoft Entra ID, Active Directory, PowerShell, and Azure.
+
+My portfolio is the **OmniVerse Enterprise Engineering Program**: a structured set of identity, infrastructure, security, and automation projects aligned with IAM Engineer, Security Engineer, and cleared cybersecurity roles.
+
+---
+
+## Featured Projects
+
+> Start here if you want the fastest view of my strongest work.
+
+| Project | What It Shows |
+|---|---|
+| [IAM-006 Identity Operations and Risk Analytics](https://github.com/KSWISHA9/IAM-006-Enterprise-Identity-Operations-Risk-Analytics) | Enterprise risk scoring, executive dashboards, posture assessment, and remediation reporting |
+| [IAM-007 Enterprise Hybrid Identity Migration](https://github.com/KSWISHA9/IAM-007-Enterprise-Hybrid-Identity-Migration) | Hybrid migration case study with 61 users aligned from Active Directory to Microsoft Entra ID |
+| [IAM-002 Enterprise Application Onboarding and SSO](https://github.com/KSWISHA9/IAM-002-Enterprise-Application-Onboarding-SSO) | SAML, OIDC, OAuth, SCIM, and Keycloak identity federation |
+| [IAM-004 Conditional Access and Zero Trust](https://github.com/KSWISHA9/IAM-004-Conditional-Access-Zero-Trust) | Conditional Access, MFA, named locations, device compliance, and Zero Trust controls |
+
+---
+
+## Full Portfolio
+
+| Project | Focus | Stack |
+|---|---|---|
+| [INFRA-001 Enterprise Active Directory](https://github.com/KSWISHA9/INFRA-001-Enterprise-Active-Directory-Infrastructure) | Enterprise AD foundation with DNS, DHCP, OUs, GPOs, AGDLP, service accounts, privileged accounts, and 2,000 users | `AD DS` `DNS` `DHCP` `GPO` `PowerShell` |
+| [IAM-001 Hybrid Identity Engineering](https://github.com/KSWISHA9/IAM-001-Hybrid-Identity-Engineering) | Hybrid identity with Active Directory, Entra ID, Entra Connect, synchronization, and troubleshooting | `Entra ID` `Entra Connect` `AD` `PowerShell` |
+| [IAM-002 Enterprise Application Onboarding and SSO](https://github.com/KSWISHA9/IAM-002-Enterprise-Application-Onboarding-SSO) | Enterprise application onboarding and identity federation | `SAML` `OIDC` `OAuth` `SCIM` `Keycloak` |
+| [IAM-003 Identity Lifecycle Automation](https://github.com/KSWISHA9/IAM-003-Identity-Lifecycle-Automation) | Joiner, Mover, Leaver automation with reporting and RBAC | `PowerShell` `Graph API` `JML` `RBAC` |
+| [IAM-004 Conditional Access and Zero Trust](https://github.com/KSWISHA9/IAM-004-Conditional-Access-Zero-Trust) | Zero Trust access control baseline | `Conditional Access` `MFA` `Entra ID` `Zero Trust` |
+| [IAM-005 Identity Governance](https://github.com/KSWISHA9/IAM-005-Identity-Governance) | Governance with PIM, entitlement management, and access reviews | `PIM` `Access Reviews` `Entitlement Management` |
+| [IAM-006 Identity Operations and Risk Analytics](https://github.com/KSWISHA9/IAM-006-Enterprise-Identity-Operations-Risk-Analytics) | Identity posture assessment, risk analytics, executive reporting, and remediation planning | `PowerShell` `Graph API` `Risk Scoring` `HTML Reports` |
+| [IAM-007 Enterprise Hybrid Identity Migration](https://github.com/KSWISHA9/IAM-007-Enterprise-Hybrid-Identity-Migration) | Hybrid identity migration and hard-match validation | `Entra Connect` `ImmutableID` `Graph API` `PowerShell` |
+
+---
+
+## Engineering Stack
+
+| Domain | Technologies |
+|---|---|
+| Identity and Directory | Active Directory, Microsoft Entra ID, Entra Connect, Okta, SAML, OIDC, SCIM |
+| Infrastructure | Windows Server, DNS, DHCP, Group Policy, VMware, VirtualBox, Ubuntu |
+| Security | Zero Trust, Conditional Access, Microsoft Defender, Microsoft Sentinel, Tenable, Splunk, Wireshark |
+| Automation | PowerShell, Microsoft Graph API, Bash, Python |
+| Cloud | Microsoft Azure, Microsoft 365 |
+| Governance | PIM, access reviews, RBAC, audit logging, NIST 800-53, RMF concepts |
+
+---
+
+## Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| [CompTIA Security+ SY0-701](https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78) | CompTIA | Earned |
+| Microsoft Identity and Access Administrator SC-300 | Microsoft | Earned |
+| SecurityX | CompTIA | In Progress |
+| Azure Security Engineer AZ-500 | Microsoft | Planned |
+| Security Operations Analyst SC-200 | Microsoft | Planned |
+
+---
+
+## Roadmap
+
+| Project | Focus | Status |
+|---|---|---|
+| SEC-001 Microsoft Sentinel SOC | KQL detection, analytics rules, incidents, workbooks, and playbooks | Next |
+| SEC-002 Defender XDR and Vulnerability Management | Defender XDR, TVM, CVEs, exposure management, and remediation tracking | Planned |
+| AZURE-001 Enterprise Azure Infrastructure | VNets, Key Vault, Bastion, managed identities, and secure Azure landing zone design | Planned |
+| GRC-001 Governance Risk and Compliance | NIST 800-53, CMMC, RMF, control mapping, and ATO-style documentation | Planned |
+| TF-001 Infrastructure as Code | Terraform, Azure, GitHub Actions, and CI/CD deployment workflows | Planned |
+
+---
+
+## Contribution Snake
 
 <div align="center">
 
 ![GitHub contribution snake](https://raw.githubusercontent.com/KSWISHA9/KSWISHA9/output/github-contribution-grid-snake.svg)
 
 </div>
-
----
-
-# About Me
-
-I build enterprise infrastructure projects that simulate how modern organizations deploy, secure, automate, and manage technology at scale.**I build enterprise infrastructure projects that demonstrate how modern organizations deploy, secure, automate, and operate technology at scale.
-
-Rather than creating isolated lab exercises, I created **OmniVerse Enterprises**—a fictional enterprise portfolio where every repository solves a realistic business scenario and builds on the previous one, mirroring how enterprise infrastructure is designed, deployed, secured, and maintained.
-
-My portfolio spans **Identity & Access Management, Systems Administration, Cybersecurity, Cloud, and Automation**, with projects centered around **Active Directory, Microsoft Entra ID, Windows Server, Microsoft Azure, PowerShell, and Zero Trust**.
-
-Every repository includes business scenarios, architecture diagrams, implementation guides, validation, troubleshooting, and lessons learned to demonstrate not only the technical solution, but the engineering process behind it.
-
----
-
-> ** My Current Mission:** Building OmniVerse Enterprises into a production-inspired enterprise portfolio demonstrating modern Identity, Infrastructure, Security, Automation, and Governance engineering.
-
----
-
-#  OmniVerse Enterprise Environment
-
-|                       |                                                            |
-| --------------------- | ---------------------------------------------------------- |
-| **Environment Type**  | Fictional Enterprise Portfolio                             |
-| **Industry**          | Enterprise Technology                                      |
-| **Organization Size** | 2,500+ Users                                               |
-| **Locations**         | Multi-site Enterprise Environment                          |
-| **Identity**          | Active Directory · Microsoft Entra ID · Okta               |
-| **Cloud**             | Microsoft Azure · Microsoft 365                            |
-| **Security**          | Microsoft Defender · Microsoft Sentinel · Tenable · Qualys |
-| **Compliance**        | NIST 800-53 · RMF                                          |
-| **Automation**        | PowerShell · Microsoft Graph API · Python                  |
-
-> **OmniVerse Enterprises is a fictional enterprise portfolio created to simulate realistic IT infrastructure, identity engineering, security operations, automation, and governance scenarios. Every repository represents a business-driven engineering project designed to mirror enterprise workflows while remaining clearly identified as a simulated environment.**
-
-→ **View the complete company architecture, documentation, and engineering roadmap in the OmniVerse Enterprise repository.**
-
-
-## Engineering Stack
-
-| Domain | Technologies |
-|--------|-------------|
-| **Identity & Directory** | Active Directory · Entra ID · Okta · SAML 2.0 · OIDC · SCIM · Entra Connect |
-| **Systems & Infrastructure** | Windows Server  · DNS · DHCP · Group Policy · VMware · VirtualBox · Ubuntu |
-| **Security** | Microsoft Defender · Sentinel · Tenable Nessus · Splunk · Wireshark · NIST 800-53 |
-| **Automation** | PowerShell · Microsoft Graph API · Bash · Python |
-| **Cloud** | Microsoft Azure · Microsoft 365 |
-| **Governance** | NIST 800-53 · RMF · eMASS · Access Reviews · Audit Logging |
-## 🏆 Certifications
-
-| Certification | Issuer | Status |
-|---------------|--------|--------|
-| [Security+ (SY0-701)](https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78) | CompTIA | ✅ Earned |
-| Identity & Access Administrator (SC-300) | Microsoft | ✅ Earned |
-| SecurityX | CompTIA | Next |
-| Azure Administrator (AZ-104) | Microsoft |
-| Okta Certified Professional | Okta |  
-
-
-
-
-## 🛡️ Certifications
-
-<p align="center">
-  <a href="https://www.credly.com/earner/earned/share/92b0a760-44a8-42b9-bcf9-4cfed8999b78">
-    <img src="https://img.shields.io/badge/View_on_Credly-CompTIA_Security%2B-d9261c?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Security+" />
-  </a>
-  <a href="https://www.credly.com">
-    <img src="https://img.shields.io/badge/Microsoft_SC--300-Identity_%26_Access_Administrator-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft SC-300" />
-  </a>
-</p>
-
----
-
-
-

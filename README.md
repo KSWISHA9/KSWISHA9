@@ -33,6 +33,8 @@ My portfolio is the **OmniVerse Enterprise Engineering Program**: a structured s
 | [IAM-002 Enterprise Application Onboarding and SSO](https://github.com/KSWISHA9/IAM-002-Enterprise-Application-Onboarding-SSO) | SAML, OIDC, OAuth, SCIM, and Keycloak identity federation |
 | [IAM-004 Conditional Access and Zero Trust](https://github.com/KSWISHA9/IAM-004-Conditional-Access-Zero-Trust) | Conditional Access, MFA, named locations, device compliance, and Zero Trust controls |
 
+**SSO applications documented:** Cisco Duo, GitHub Enterprise, Grafana, Jira, Keycloak, Salesforce, ServiceNow, Slack, WordPress, Zoom, and SCIM Provisioning.
+
 ---
 
 ## Full Portfolio

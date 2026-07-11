@@ -36,10 +36,11 @@ My portfolio is the **OmniVerse Enterprise Engineering Program**: a structured s
 
 | Project | What It Shows |
 |---|---|
+| [SEC-001 Enterprise SOC Engineering](https://github.com/KSWISHA9/SEC-001-Enterprise-SOC-Engineering) | Microsoft Sentinel deployment, KQL detection engineering, MITRE mapping, and incident investigation |
+| [SEC-002 Enterprise Vulnerability Management](https://github.com/KSWISHA9/SEC-002-Enterprise-Vulnerability-Management) | Nmap discovery, Greenbone/Nessus scanning, CVE/CVSS analysis, remediation, and validation |
 | [IAM-006 Identity Operations and Risk Analytics](https://github.com/KSWISHA9/IAM-006-Enterprise-Identity-Operations-Risk-Analytics) | Enterprise risk scoring, executive dashboards, posture assessment, and remediation reporting |
 | [IAM-007 Enterprise Hybrid Identity Migration](https://github.com/KSWISHA9/IAM-007-Enterprise-Hybrid-Identity-Migration) | Hybrid migration case study with 61 users aligned from Active Directory to Microsoft Entra ID |
 | [IAM-002 Enterprise Application Onboarding and SSO](https://github.com/KSWISHA9/IAM-002-Enterprise-Application-Onboarding-SSO) | SAML, OIDC, OAuth, SCIM, and Keycloak identity federation |
-| [IAM-004 Conditional Access and Zero Trust](https://github.com/KSWISHA9/IAM-004-Conditional-Access-Zero-Trust) | Conditional Access, MFA, named locations, device compliance, and Zero Trust controls |
 
 **SSO applications documented:** Cisco Duo, GitHub Enterprise, Grafana, Jira, Keycloak, Salesforce, WordPress, and SCIM Provisioning.
 
@@ -49,6 +50,8 @@ My portfolio is the **OmniVerse Enterprise Engineering Program**: a structured s
 
 | Project | Focus | Stack |
 |---|---|---|
+| [SEC-001 Enterprise SOC Engineering](https://github.com/KSWISHA9/SEC-001-Enterprise-SOC-Engineering) | Microsoft Sentinel SOC deployment, KQL analytics rule, MITRE ATT&CK mapping, and incident investigation | `Sentinel` `KQL` `MITRE` `Entra ID` |
+| [SEC-002 Enterprise Vulnerability Management](https://github.com/KSWISHA9/SEC-002-Enterprise-Vulnerability-Management) | Asset discovery, vulnerability scanning, CVE/CVSS analysis, remediation, and validation scanning | `Nessus` `Nmap` `Greenbone` `CVSS` `PowerShell` |
 | [INFRA-001 Enterprise Active Directory](https://github.com/KSWISHA9/INFRA-001-Enterprise-Active-Directory-Infrastructure) | Enterprise AD foundation with DNS, DHCP, OUs, GPOs, AGDLP, service accounts, privileged accounts, and 2,000 users | `AD DS` `DNS` `DHCP` `GPO` `PowerShell` |
 | [IAM-001 Hybrid Identity Engineering](https://github.com/KSWISHA9/IAM-001-Hybrid-Identity-Engineering) | Hybrid identity with Active Directory, Entra ID, Entra Connect, synchronization, and troubleshooting | `Entra ID` `Entra Connect` `AD` `PowerShell` |
 | [IAM-002 Enterprise Application Onboarding and SSO](https://github.com/KSWISHA9/IAM-002-Enterprise-Application-Onboarding-SSO) | Enterprise application onboarding and identity federation | `SAML` `OIDC` `OAuth` `SCIM` `Keycloak` |
@@ -89,8 +92,13 @@ My portfolio is the **OmniVerse Enterprise Engineering Program**: a structured s
 
 | Project | Focus | Status |
 |---|---|---|
-| SEC-001 Microsoft Sentinel SOC | KQL detection, analytics rules, incidents, workbooks, and playbooks | Next |
-| SEC-002 Defender XDR and Vulnerability Management | Defender XDR, TVM, CVEs, exposure management, and remediation tracking | Planned |
+| [SEC-001 Enterprise SOC Engineering](https://github.com/KSWISHA9/SEC-001-Enterprise-SOC-Engineering) | Microsoft Sentinel, KQL detection, analytics rules, MITRE mapping, and incident investigation | Complete |
+| [SEC-002 Enterprise Vulnerability Management](https://github.com/KSWISHA9/SEC-002-Enterprise-Vulnerability-Management) | Nmap discovery, Greenbone/Nessus scanning, CVE/CVSS analysis, remediation, and validation | Complete |
+| SEC-003 Web Attack Detection and Investigation | SQL injection, Apache log analysis, IoCs, timeline reconstruction, and reporting | Next |
+| SEC-004 Web Shell Incident Response | File upload exploitation, reverse shell investigation, Apache logs, kern.log, and response timeline | Planned |
+| SEC-005 SOAR Playbook Automation | SIEM/SOAR playbook workflow, rogue process triage, and automated response | Planned |
+| SEC-006 Threat Intelligence Automation | IP blocking, DNS blocking, malware hash checks, Bash, cron, and threat feeds | Planned |
+| SEC-007 Enterprise Hardening Baseline | Firewall rules, Linux permissions, STIG readiness, CIS concepts, and baseline validation | Planned |
 | AZURE-001 Enterprise Azure Infrastructure | VNets, Key Vault, Bastion, managed identities, and secure Azure landing zone design | Planned |
 | GRC-001 Governance Risk and Compliance | NIST 800-53, CMMC, RMF, control mapping, and ATO-style documentation | Planned |
 | TF-001 Infrastructure as Code | Terraform, Azure, GitHub Actions, and CI/CD deployment workflows | Planned |

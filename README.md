@@ -32,15 +32,16 @@ My portfolio is the **OmniVerse Enterprise Engineering Program**: a structured s
 
 ## Featured Projects
 
-> Start here if you want the fastest view of my strongest work.
+Selected case studies in identity engineering, security architecture, and evidence-backed remediation.
 
-| Project | What It Shows |
+| Project | Problem Addressed and Result |
 |---|---|
-| [SEC-001 Enterprise SOC Engineering](https://github.com/KSWISHA9/SEC-001-Enterprise-SOC-Engineering) | Microsoft Sentinel deployment, KQL detection engineering, MITRE mapping, and incident investigation |
-| [SEC-002 Enterprise Vulnerability Management](https://github.com/KSWISHA9/SEC-002-Enterprise-Vulnerability-Management) | Nmap discovery, Greenbone/Nessus scanning, CVE/CVSS analysis, remediation, and validation |
-| [IAM-006 Identity Operations and Risk Analytics](https://github.com/KSWISHA9/IAM-006-Enterprise-Identity-Operations-Risk-Analytics) | Enterprise risk scoring, executive dashboards, posture assessment, and remediation reporting |
-| [IAM-007 Enterprise Hybrid Identity Migration](https://github.com/KSWISHA9/IAM-007-Enterprise-Hybrid-Identity-Migration) | Hybrid migration case study with 61 users aligned from Active Directory to Microsoft Entra ID |
-| [IAM-002 Enterprise Application Onboarding and SSO](https://github.com/KSWISHA9/IAM-002-Enterprise-Application-Onboarding-SSO) | SAML, OIDC, OAuth, SCIM, and Keycloak identity federation |
+| [IAM-007 - Hybrid Identity Migration](https://github.com/KSWISHA9/IAM-007-Enterprise-Hybrid-Identity-Migration) | Reconciled hybrid identities and attribute conflicts; 61 users hard-matched using Entra Connect, Graph, and PowerShell |
+| [IAM-006 - Identity Operations and Risk Analytics](https://github.com/KSWISHA9/IAM-006-Enterprise-Identity-Operations-Risk-Analytics) | Turned identity posture findings into risk scoring, executive dashboards, and remediation reporting |
+| [IAM-002 - Application Onboarding and SSO](https://github.com/KSWISHA9/IAM-002-Enterprise-Application-Onboarding-SSO) | Implemented application federation and provisioning workflows using SAML, OIDC, OAuth, SCIM, and Keycloak |
+| [SEC-008 - Security Architecture](https://github.com/KSWISHA9/SEC-008-Enterprise-Security-Architecture) | Restricted application exposure, replaced HTTP with CA-verified HTTPS, and tested analyst/viewer OIDC authorization; managed cutover remains in progress |
+| [SEC-009 - GRC and CMMC Readiness](https://github.com/KSWISHA9/SEC-009-Enterprise-GRC-CMMC-Readiness) | Simulated assessment: AD minimum length 7 to 14, lockout threshold 0 to 10, audit hardening, and least-privilege evaluation; enforcement validation remains in progress |
+| [SEC-002 - Vulnerability Management](https://github.com/KSWISHA9/SEC-002-Enterprise-Vulnerability-Management) | Credentialed scanning, remediation, and rescanning reduced critical findings from 22 to 19 and high findings from 43 to 33 |
 
 **SSO applications documented:** Cisco Duo, GitHub Enterprise, Grafana, Jira, Keycloak, Salesforce, WordPress, and SCIM Provisioning.
 
@@ -52,6 +53,8 @@ My portfolio is the **OmniVerse Enterprise Engineering Program**: a structured s
 |---|---|---|
 | [SEC-001 Enterprise SOC Engineering](https://github.com/KSWISHA9/SEC-001-Enterprise-SOC-Engineering) | Microsoft Sentinel SOC deployment, KQL analytics rule, MITRE ATT&CK mapping, and incident investigation | `Sentinel` `KQL` `MITRE` `Entra ID` |
 | [SEC-002 Enterprise Vulnerability Management](https://github.com/KSWISHA9/SEC-002-Enterprise-Vulnerability-Management) | Asset discovery, vulnerability scanning, CVE/CVSS analysis, remediation, and validation scanning | `Nessus` `Nmap` `Greenbone` `CVSS` `PowerShell` |
+| [SEC-008 Enterprise Security Architecture](https://github.com/KSWISHA9/SEC-008-Enterprise-Security-Architecture) | In progress: host-based microsegmentation, private-CA HTTPS, and OIDC role authorization; not a full enterprise Zero Trust deployment | `Ubuntu` `UFW` `TLS` `Keycloak` `OIDC` `RBAC` |
+| [SEC-009 Enterprise GRC and CMMC Readiness](https://github.com/KSWISHA9/SEC-009-Enterprise-GRC-CMMC-Readiness) | In progress: simulated selected-control assessment, AD/audit hardening, BIA, SSP, risk register, and POA&M; not CMMC certification | `NIST RMF` `CMMC` `AD` `PowerShell` `NTFS` |
 | [INFRA-001 Enterprise Active Directory](https://github.com/KSWISHA9/INFRA-001-Enterprise-Active-Directory-Infrastructure) | Enterprise AD foundation with DNS, DHCP, OUs, GPOs, AGDLP, service accounts, privileged accounts, and 2,000 users | `AD DS` `DNS` `DHCP` `GPO` `PowerShell` |
 | [IAM-001 Hybrid Identity Engineering](https://github.com/KSWISHA9/IAM-001-Hybrid-Identity-Engineering) | Hybrid identity with Active Directory, Entra ID, Entra Connect, synchronization, and troubleshooting | `Entra ID` `Entra Connect` `AD` `PowerShell` |
 | [IAM-002 Enterprise Application Onboarding and SSO](https://github.com/KSWISHA9/IAM-002-Enterprise-Application-Onboarding-SSO) | Enterprise application onboarding and identity federation | `SAML` `OIDC` `OAuth` `SCIM` `Keycloak` |
